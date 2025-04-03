@@ -1,10 +1,63 @@
-# Hi there 👋
+<!-- 
+Crear Banner para para portada
+![Banner](https://raw.githubusercontent.com/Juan17Informatico/Juan17Informatico/main/banner.png)   -->
+# 👋 ¡Hola! Soy Juan Pablo C  
 
-:computer: **Desarrollador de Software**
-:eyeglasses: **Geek empedernido**
+🚀 **Desarrollador FullStack** | Apasionado por la tecnología y la innovación  
 
-## Vias de contacto
+💡 Me encanta crear soluciones eficientes utilizando tecnologías modernas. Siempre estoy aprendiendo y explorando nuevas herramientas para mejorar mis habilidades.  
 
-![Website](https://img.shields.io/website)
+---
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Juan17Informatico/Juan17Informatico)
+## 🛠️ **Tech Stack**  
+
+### 🚀 Lenguajes
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+### ⚙️ Frameworks & Tools
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+
+### 🗄️ Bases de datos
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+
+### ☁️ Cloud
+
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+
+---
+
+## 📌 **Proyectos Destacados**
+
+🔹 [**API de Finanzas**](https://github.com/Juan17Informatico/finanzas-api-laravel) - API de Finanzas desarrollada en Laravel  
+🔹 [**Sistema de Autenticación**](https://github.com/Juan17Informatico/sistema-de-autenticacion-de-usuarios-laravel) - Sistema de autenticación de usuarios con Laravel 11  
+🔹 [**Blog Simple**](https://github.com/Juan17Informatico/blog-simple-laravel) - Blog simple con Laravel 11  
+
+---
+
+## 📊 **Estadísticas en GitHub**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juan17Informatico&show_icons=true&theme=dark)
+
+---
+
+## 📬 **Vías de Contacto**  
+
+<!-- TODO: poner url de mi perfil linkedin -->
+<!-- TODO: Poner correo de contacto -->
+<!-- TODO: Poner link de website -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tuperfil)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tuemail@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://tuwebsite.com)  
+
+---
+
+💻 *"Nunca pares de aprender"* 🚀  
