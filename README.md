@@ -60,7 +60,7 @@ Crear Banner para para portada
 
 ---
 
-<!-- RECENT_ACTIVITY:start -->
-<!-- RECENT_ACTIVITY:last_update -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 💻 *"Nunca pares de aprender"* 🚀  
