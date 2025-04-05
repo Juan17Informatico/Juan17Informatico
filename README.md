@@ -60,6 +60,7 @@ Crear Banner para para portada
 
 ---
 
+## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
 2. 📔 Created new repository [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
