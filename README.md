@@ -62,14 +62,14 @@ Crear Banner para para portada
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
-2. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/finanzas-api-laravel](https://github.com/Juan17Informatico/finanzas-api-laravel)<br>
-3. ⬆️ Pushed 4 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
-4. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/Juan17Informatico](https://github.com/Juan17Informatico/Juan17Informatico)<br>
-5. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/Juan17Informatico](https://github.com/Juan17Informatico/Juan17Informatico)<br>
+1. ⬆️ Pushed 2 commit(s) to [Juan17Informatico/curso-repo-github](https://github.com/Juan17Informatico/curso-repo-github)<br>
+2. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/tercerRepoGithubGitCurso-Releases](https://github.com/Juan17Informatico/tercerRepoGithubGitCurso-Releases)<br>
+3. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/tercerRepoGithubGitCurso-Releases](https://github.com/Juan17Informatico/tercerRepoGithubGitCurso-Releases)<br>
+4. ✌️ Released [v0.1.1](https://github.com/Juan17Informatico/tercerRepoGithubGitCurso-Releases/releases/tag/v0.1.1) in [Juan17Informatico/tercerRepoGithubGitCurso-Releases](https://github.com/Juan17Informatico/tercerRepoGithubGitCurso-Releases)<br>
+5. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/tercerRepoGithubGitCurso-Releases](https://github.com/Juan17Informatico/tercerRepoGithubGitCurso-Releases)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 6th, 2025, 1:00:46 AM
+Last Updated: Sunday, April 6th, 2025, 12:20:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 💻 *"Nunca pares de aprender"* 🚀  
