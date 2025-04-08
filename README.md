@@ -54,9 +54,9 @@ Crear Banner para para portada
 <!-- TODO: poner url de mi perfil linkedin -->
 <!-- TODO: Poner correo de contacto -->
 <!-- TODO: Poner link de website -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tuperfil)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tuemail@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://tuwebsite.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/juan-pablo-campuzano-monsalve-17a614207/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:juancampuzano2356@gmail.com)
+<!-- [![Website](https://img.shields.io/badge/-Website-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://tuwebsite.com)   -->
 
 ---
 
