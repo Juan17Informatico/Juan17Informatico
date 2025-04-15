@@ -62,14 +62,14 @@ Crear Banner para para portada
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Juan17Informatico/training-app](https://github.com/Juan17Informatico/training-app)<br>
-2. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
-3. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
-4. ⬆️ Pushed 5 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
-5. 🎉 Merged PR [#1](https://github.com/Juan17Informatico/portfolio-juan/pull/1) in [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
+1. ⬆️ Pushed 3 commit(s) to [Juan17Informatico/finanzas-ui](https://github.com/Juan17Informatico/finanzas-ui)<br>
+2. 📔 Created new repository [Juan17Informatico/finanzas-ui](https://github.com/Juan17Informatico/finanzas-ui)<br>
+3. 📔 Created new repository [Juan17Informatico/training-app](https://github.com/Juan17Informatico/training-app)<br>
+4. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
+5. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 14th, 2025, 1:00:30 PM
+Last Updated: Tuesday, April 15th, 2025, 12:58:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 💻 *"Nunca pares de aprender"* 🚀  
