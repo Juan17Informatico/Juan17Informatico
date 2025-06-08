@@ -62,14 +62,14 @@ Crear Banner para para portada
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
-2. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
-3. ⬆️ Pushed 5 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
+1. ⬆️ Pushed 6 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
+2. ⬆️ Pushed 2 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
+3. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
 4. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
-5. ⬆️ Pushed 9 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
+5. ⬆️ Pushed 5 commit(s) to [Juan17Informatico/portfolio-juan](https://github.com/Juan17Informatico/portfolio-juan)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 7th, 2025, 1:25:31 PM
+Last Updated: Sunday, June 8th, 2025, 1:07:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 💻 *"Nunca pares de aprender"* 🚀  
