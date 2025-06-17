@@ -62,14 +62,14 @@ Crear Banner para para portada
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [Juan17Informatico/vue-user-list](https://github.com/Juan17Informatico/vue-user-list)<br>
-2. ⬆️ Pushed 4 commit(s) to [Juan17Informatico/clima-ts-app](https://github.com/Juan17Informatico/clima-ts-app)<br>
-3. ⬆️ Pushed 2 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
-4. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/vue-user-list](https://github.com/Juan17Informatico/vue-user-list)<br>
-5. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/vue-user-list](https://github.com/Juan17Informatico/vue-user-list)<br>
+1. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/css-tailwind-learning](https://github.com/Juan17Informatico/css-tailwind-learning)<br>
+2. ⬆️ Pushed 6 commit(s) to [Juan17Informatico/curso-frontend-developer-platzi](https://github.com/Juan17Informatico/curso-frontend-developer-platzi)<br>
+3. ⬆️ Pushed 3 commit(s) to [Juan17Informatico/vue-user-list](https://github.com/Juan17Informatico/vue-user-list)<br>
+4. ⬆️ Pushed 4 commit(s) to [Juan17Informatico/clima-ts-app](https://github.com/Juan17Informatico/clima-ts-app)<br>
+5. ⬆️ Pushed 2 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 17th, 2025, 1:02:17 AM
+Last Updated: Tuesday, June 17th, 2025, 12:26:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 💻 *"Nunca pares de aprender"* 🚀  
