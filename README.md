@@ -62,14 +62,14 @@ Crear Banner para para portada
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 7 commit(s) to [Juan17Informatico/clima-ts-app](https://github.com/Juan17Informatico/clima-ts-app)<br>
-2. ⬆️ Pushed 5 commit(s) to [Juan17Informatico/curso-frontend-developer-platzi](https://github.com/Juan17Informatico/curso-frontend-developer-platzi)<br>
-3. ⬆️ Pushed 3 commit(s) to [Juan17Informatico/css-tailwind-learning](https://github.com/Juan17Informatico/css-tailwind-learning)<br>
-4. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/css-tailwind-learning](https://github.com/Juan17Informatico/css-tailwind-learning)<br>
-5. ⬆️ Pushed 6 commit(s) to [Juan17Informatico/curso-frontend-developer-platzi](https://github.com/Juan17Informatico/curso-frontend-developer-platzi)<br>
+1. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
+2. ⬆️ Pushed 4 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
+3. ⬆️ Pushed 7 commit(s) to [Juan17Informatico/clima-ts-app](https://github.com/Juan17Informatico/clima-ts-app)<br>
+4. ⬆️ Pushed 5 commit(s) to [Juan17Informatico/curso-frontend-developer-platzi](https://github.com/Juan17Informatico/curso-frontend-developer-platzi)<br>
+5. ⬆️ Pushed 3 commit(s) to [Juan17Informatico/css-tailwind-learning](https://github.com/Juan17Informatico/css-tailwind-learning)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 19th, 2025, 1:02:27 AM
+Last Updated: Thursday, June 19th, 2025, 12:25:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 💻 *"Nunca pares de aprender"* 🚀  
