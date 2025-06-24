@@ -63,13 +63,13 @@ Crear Banner para para portada
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
-2. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/css-tailwind-learning](https://github.com/Juan17Informatico/css-tailwind-learning)<br>
-3. ⬆️ Pushed 2 commit(s) to [Juan17Informatico/css-tailwind-learning](https://github.com/Juan17Informatico/css-tailwind-learning)<br>
-4. ⬆️ Pushed 6 commit(s) to [Juan17Informatico/css-tailwind-learning](https://github.com/Juan17Informatico/css-tailwind-learning)<br>
+2. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
+3. ⬆️ Pushed 2 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
+4. ⬆️ Pushed 2 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
 5. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 24th, 2025, 1:02:50 AM
+Last Updated: Tuesday, June 24th, 2025, 12:25:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 💻 *"Nunca pares de aprender"* 🚀  
