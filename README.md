@@ -62,14 +62,14 @@ Crear Banner para para portada
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [Juan17Informatico/blog-backend](https://github.com/Juan17Informatico/blog-backend)<br>
-2. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/blog-backend](https://github.com/Juan17Informatico/blog-backend)<br>
-3. ⬆️ Pushed 2 commit(s) to [Juan17Informatico/blog-backend](https://github.com/Juan17Informatico/blog-backend)<br>
-4. ⬆️ Pushed 3 commit(s) to [Juan17Informatico/blog-backend](https://github.com/Juan17Informatico/blog-backend)<br>
+1. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
+2. ⬆️ Pushed 5 commit(s) to [Juan17Informatico/blog-backend](https://github.com/Juan17Informatico/blog-backend)<br>
+3. ⬆️ Pushed 1 commit(s) to [Juan17Informatico/blog-backend](https://github.com/Juan17Informatico/blog-backend)<br>
+4. ⬆️ Pushed 2 commit(s) to [Juan17Informatico/blog-backend](https://github.com/Juan17Informatico/blog-backend)<br>
 5. ⬆️ Pushed 3 commit(s) to [Juan17Informatico/blog-backend](https://github.com/Juan17Informatico/blog-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 3rd, 2025, 2:16:47 AM
+Last Updated: Friday, October 3rd, 2025, 12:23:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 💻 *"Nunca pares de aprender"* 🚀  
