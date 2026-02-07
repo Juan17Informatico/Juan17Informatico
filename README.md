@@ -64,12 +64,12 @@ Crear Banner para para portada
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
 2. ⬆️ Pushed undefined commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
-3. ⬆️ Pushed undefined commit(s) to [Juan17Informatico/blog-backend](https://github.com/Juan17Informatico/blog-backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [Juan17Informatico/blog-dev-notes](https://github.com/Juan17Informatico/blog-dev-notes)<br>
 4. ⬆️ Pushed undefined commit(s) to [Juan17Informatico/blog-backend](https://github.com/Juan17Informatico/blog-backend)<br>
 5. ⬆️ Pushed undefined commit(s) to [Juan17Informatico/blog-backend](https://github.com/Juan17Informatico/blog-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 6th, 2026, 1:46:31 PM
+Last Updated: Saturday, February 7th, 2026, 1:16:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 💻 *"Nunca pares de aprender"* 🚀  
